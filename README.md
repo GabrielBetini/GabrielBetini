@@ -2,8 +2,7 @@
 
 
 - 🔭 Atualmente trabalhando como programador Frontend
-- 🌱 I’m currently learning ...
+- 🌱 Aprendendo a desenvolver com React
 - 📫 Contato: contatobetini@outlook.com
-- 😄 Pronouns: ...
 
 
