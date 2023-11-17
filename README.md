@@ -1,6 +1,6 @@
 ## Hi there!
 
-- 📚 I'm learning React
+- 📚 Learning React
 - 🖥 Working as frontend programmer
 - ✉ Contact: contatobetini@outlook.com
  
